@@ -1,5 +1,5 @@
 # Gkeep-clone
 
-### Live at: 
+### Live at: https://gkeep-clone-assignment.netlify.app
 
-(Or to run at localhost, download the project and double click on **index.html**)
+(Or to run at localhost, download the project and open **index.html** in any browser)
